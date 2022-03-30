@@ -1,0 +1,17 @@
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.csproj.AssemblyReference.cache
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.AssemblyInfoInputs.cache
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.AssemblyInfo.cs
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\WeatherAPI.exe
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\WeatherAPI.deps.json
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\WeatherAPI.runtimeconfig.json
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\WeatherAPI.dll
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\ref\WeatherAPI.dll
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\WeatherAPI.pdb
+C:\Users\15103\repos\WeatherAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.csproj.CopyComplete
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.dll
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\ref\WeatherAPI.dll
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.pdb
+C:\Users\15103\repos\WeatherAPI\obj\Debug\net6.0\WeatherAPI.genruntimeconfig.cache
